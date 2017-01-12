@@ -1,0 +1,3170 @@
+{
+	"id": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+	"name": "A--迅捷生活",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"id": "d969e7d0-eae1-53b8-9157-2ef9ad57d199",
+			"name": "下单流程",
+			"description": "",
+			"order": [
+				"0a626ec4-6691-4f05-3aad-d0877812a5dd",
+				"426458bc-c4e3-cde4-b08a-4c6d18331152",
+				"af1a97b7-c182-fb27-8cfb-6592ebff20fd",
+				"41023471-e92b-add6-8061-4ef1e8348888",
+				"2de65c5c-fd6c-24fb-dd3d-e79efb390cf5",
+				"bccbd730-5231-7729-0566-457c6a43d05a"
+			],
+			"owner": 0,
+			"collectionId": "5107b060-acbd-ac50-31d5-72384bcc2fde"
+		},
+		{
+			"id": "52adf547-6cd3-e108-1c29-d00c8e7cfd92",
+			"name": "公共类",
+			"description": "",
+			"order": [
+				"0ad04d8d-011f-6fe7-690a-ca5c2f1e43fc",
+				"60d601dc-027a-74d7-cac1-d5a4f61eb76f",
+				"ed85c773-e760-21e3-41bc-76b776eb5dcc",
+				"b6d22f1a-b5a3-8785-29a0-f7bd21e6973a"
+			],
+			"owner": 0
+		},
+		{
+			"id": "a919113a-365b-76aa-d4bd-f62087337381",
+			"name": "支付类",
+			"description": "",
+			"order": [
+				"323e9d90-b5b5-dc34-cd43-e85f442d1b63",
+				"27406806-416e-3c3c-1f58-a867722632cc"
+			],
+			"owner": 0
+		},
+		{
+			"id": "08c2c467-473e-18f8-92d1-246b26797a36",
+			"name": "用户端",
+			"description": "",
+			"order": [
+				"ba293bd3-4758-bdc8-1dc6-59d219937a40",
+				"53bed44c-ce1d-9e6f-4066-55aa75ce4edb",
+				"df7833f8-139a-ee90-8cbc-6db4cb0d49da",
+				"7198cff7-b6bc-2af0-42e2-b73547b81fad",
+				"94b05ca9-9d61-a5a5-cd29-aeb559c5a42f",
+				"319a900b-c351-e009-410c-38612b7fb311",
+				"7a88132e-fd73-0dd4-19bc-94b3577545bb",
+				"42b9a2f6-18ed-6030-9ebc-321097eda015",
+				"88db2eb1-b6dc-da87-34c5-0a08874dad7d",
+				"520fe64b-ffde-21ef-7b35-ae5197248d6e",
+				"b8558db8-d5d2-8001-bd56-09bca2300db0",
+				"a4ce1c2f-3d41-f46c-306b-552c2d736353",
+				"f85bc9ba-3db6-49be-f71b-ec53af3e338e",
+				"1b2101d6-ab5b-4241-0818-a32ccc7bafb8",
+				"8f4329a3-6c3c-1443-f2f0-69764f2179e7",
+				"cea7fe18-c2fe-8d98-29db-66148cb21190",
+				"d91a12af-40e5-b2b9-3a33-6e4758ddf6b4",
+				"fa0f68fe-01bf-4bac-a8f4-0f9b4d07d725",
+				"32b42826-f7c0-e549-426f-d2b9d4db1047",
+				"ac88f845-822c-cd15-0381-9594f75d4fd7",
+				"fb1ceaed-cf00-9cb6-3dcb-22daa4e994f2",
+				"78b487c8-bfdb-539b-493d-993b9d81801c",
+				"a4826baf-10f8-afa0-708e-a0938bfc77e0",
+				"dfd1a7a5-a06e-493f-da1b-b64108a6d6ea",
+				"4015667b-dd5d-0254-a272-d942553e278a",
+				"709427a5-881e-45ca-a9a6-286bb7b1c5ed",
+				"09265127-911a-0532-2295-9cd8b673d334",
+				"a6f430e0-6d3c-e268-deec-10c36e4d8105",
+				"bdd55755-4d4d-1f68-9c11-5979ef3c42f4",
+				"2f34e84e-74b9-53ee-fffe-010552bc6757"
+			],
+			"owner": 0,
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54"
+		},
+		{
+			"id": "dae2fa3b-eda9-560a-0dea-dea80eaf76dc",
+			"name": "配送端",
+			"description": "",
+			"order": [
+				"46456d7d-da3b-251d-66b7-06e971c91637",
+				"96c19bcd-df00-bcf7-1fb9-6bb431ccfa8f",
+				"26a76470-4a34-226a-598c-152fe035d288",
+				"cf16ea68-f87c-1442-422f-df5c6b3a4c51",
+				"26d8e9a4-3ea4-38ee-82a4-e8fc39a86162",
+				"9ad00bcc-7a63-bf6e-ed32-382bfae23cdf",
+				"1f5ba448-d0e4-92ab-3425-5294a70e3802",
+				"bd47d7e5-4374-d101-a29c-6a4e4ff7f742",
+				"98b95ead-a424-5d1f-1962-568d47412ad4"
+			],
+			"owner": 0
+		}
+	],
+	"timestamp": 1479981202861,
+	"owner": 0,
+	"public": false,
+	"published": false,
+	"requests": [
+		{
+			"id": "09265127-911a-0532-2295-9cd8b673d334",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_order_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "state",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "page",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "state",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start_time",
+					"value": "2010-08-01",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "end_time",
+					"value": "2010-08-19",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "old",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1482894459749,
+			"name": "订单--我的订单==******* ",
+			"description": "state  \r\n1为待支付  \r\n2为已支付 待接单  \r\n3已接单待取件\r\n\r\n4已取件\r\n\r\n5为已完成  \r\n\r\n6为取消订单\r\n\r\nold  为1的时候，是历史订单（状态为 5和6的订单）",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "0a626ec4-6691-4f05-3aad-d0877812a5dd",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_default_address",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480065413158,
+			"name": "获取默认地址==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "d969e7d0-eae1-53b8-9157-2ef9ad57d199"
+		},
+		{
+			"id": "0ad04d8d-011f-6fe7-690a-ca5c2f1e43fc",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "106.541688",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "29.578123",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480060849139,
+			"name": "首页",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "52adf547-6cd3-e108-1c29-d00c8e7cfd92"
+		},
+		{
+			"id": "1b2101d6-ab5b-4241-0818-a32ccc7bafb8",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_address_add",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "consignee",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "contact_phone",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "add_province",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "add_city",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "add_area",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_default",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480127231469,
+			"name": "我的地址--添加==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "1f5ba448-d0e4-92ab-3425-5294a70e3802",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/store_user_start",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "b_user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483408935680,
+			"name": "订单--配送员状态",
+			"description": "start  1为上班 2为忙碌",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "26a76470-4a34-226a-598c-152fe035d288",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/the_up_store",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "up_store_longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "up_store_latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1481176294108,
+			"name": "上报到店",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "26d8e9a4-3ea4-38ee-82a4-e8fc39a86162",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/confirm_service",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "20170105180632956353",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "c_servi_longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "c_servi_latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "servi_img",
+					"value": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483671694441,
+			"name": "确认送达",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "27406806-416e-3c3c-1f58-a867722632cc",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/recharge_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483432104196,
+			"name": "充值优惠列表",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "2de65c5c-fd6c-24fb-dd3d-e79efb390cf5",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/order_confirm",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "coup_id",
+					"value": "优惠券id",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "remarks",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "money",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rec_time",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_colle_pay",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ds_money",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1482137053816,
+			"name": "确认订单==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "2f34e84e-74b9-53ee-fffe-010552bc6757",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_order_details",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "20161213165814847214",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1482290127601,
+			"name": "订单--订单详情=******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "319a900b-c351-e009-410c-38612b7fb311",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_info",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "mnique",
+					"value": "93f9850ae83ae3b79e7b0638d465c6bb",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480052395790,
+			"name": "获取用户数据==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "323e9d90-b5b5-dc34-cd43-e85f442d1b63",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/recharge",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "money",
+					"value": "10",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "payment",
+					"value": "alipay",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "20",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "recha_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pay_type",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483431915436,
+			"name": "支付",
+			"description": "pay_type 为1的时候为充值",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "32b42826-f7c0-e549-426f-d2b9d4db1047",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_bank_add",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "img",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bank_name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "account",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bank_acc_name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1481268134355,
+			"name": "货款账户--添加==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "4015667b-dd5d-0254-a272-d942553e278a",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_evaluate_add",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "b_user_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "star",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cent",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480382506836,
+			"name": "订单--添加评价==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "41023471-e92b-add6-8061-4ef1e8348888",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/cart_add_distribution",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "money",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "addre_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "goods_name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "buy_address",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "consignor",
+					"value": "发货人",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "consignee",
+					"value": "收货人",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rec_time",
+					"value": "发货时间",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "dilometers",
+					"value": "多少公里",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "de_address",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "buy_address",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_colle_pay",
+					"value": "1为代收货款",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ds_money",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1484031893844,
+			"name": "配送--添加==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "426458bc-c4e3-cde4-b08a-4c6d18331152",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/calculating_cost",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "106.541688",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "29.578123",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_longitude",
+					"value": "106.541688",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_latitude",
+					"value": "28.678123",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "charge_money",
+					"value": "10",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "1为代购 2为配送",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480130821760,
+			"name": "计算费用==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "d969e7d0-eae1-53b8-9157-2ef9ad57d199"
+		},
+		{
+			"id": "42b9a2f6-18ed-6030-9ebc-321097eda015",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_coupon",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_use",
+					"value": "1为可使用优惠券",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1481013448428,
+			"name": "我的优惠券==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "46456d7d-da3b-251d-66b7-06e971c91637",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/common_problem",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480915699982,
+			"name": "常见问题",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "520fe64b-ffde-21ef-7b35-ae5197248d6e",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_msg_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1482370958995,
+			"name": "我的消息通知==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "53bed44c-ce1d-9e6f-4066-55aa75ce4edb",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/register",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_phone",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_bess",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "gender",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "islogo",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483687370368,
+			"name": "注册",
+			"description": "is_bess《0为会员 1为商家 2为配送员》 \n\n商家注册的时候要填密码  会员注册不用填\n\ngender 性别直接填中文",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "60d601dc-027a-74d7-cac1-d5a4f61eb76f",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/sysinfo",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480062123892,
+			"name": "系统配置信息",
+			"description": "s_url    给我们评分链接\r\n\r\ns_logo 系统logo\r\n\r\nv_num 系统版本号",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "52adf547-6cd3-e108-1c29-d00c8e7cfd92"
+		},
+		{
+			"id": "709427a5-881e-45ca-a9a6-286bb7b1c5ed",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_eval_cart_info",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480298191002,
+			"name": "订单--立即评价页面数据==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "7198cff7-b6bc-2af0-42e2-b73547b81fad",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/logo",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_phone",
+					"value": "13452480339",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "openid",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "category",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "head_graphic",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_bess",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483697519832,
+			"name": "登陆",
+			"description": "openid《第三方登陆唯一值》\n\ncategory 《第三方登陆方式，如qq》\n\nopenid 如果存在，优先查询是否有帐户绑定，如果不存在，则创建帐户\n\nhead_graphic 《第三方登陆返回的头像》\n\n0为会员 1为商家  2为配送员",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "78b487c8-bfdb-539b-493d-993b9d81801c",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_bank_edit",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "img",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bank_name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "account",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bank_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480125858389,
+			"name": "货款账户--修改==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "7a88132e-fd73-0dd4-19bc-94b3577545bb",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_edit",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "mnique",
+					"value": "93f9850ae83ae3b79e7b0638d465c6bb",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480052580878,
+			"name": "修改会员数据==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "88db2eb1-b6dc-da87-34c5-0a08874dad7d",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/business_add",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bus_name",
+					"value": "龙肆",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "position ",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "d_address",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "contacts",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "gender",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phone",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "landline",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cate_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480056418321,
+			"name": "商家帐户资料填写==*******",
+			"description": "bus_name  商家名字\r\n\r\nposition  大概位置\r\n\r\nd_address  详情地址\r\n\r\ncontacts  联系人\r\n\r\ngender 性别，直接中文\r\n\r\nphone  电话 \r\n\r\nlandline 座机\r\n\r\ncate_id 经营品类id",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "8f4329a3-6c3c-1443-f2f0-69764f2179e7",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_address_edit",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "consignee",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "contact_phone",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "add_province",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "add_city",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "add_area",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "addre_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480065191222,
+			"name": "我的地址--修改==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "94b05ca9-9d61-a5a5-cd29-aeb559c5a42f",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/verify",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phone",
+					"value": "18203048656",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_bess",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480747229047,
+			"name": "获取验证码",
+			"description": "《 找回密码的时候，可以用返回的帐户唯一值，直接进行修改》",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "96c19bcd-df00-bcf7-1fb9-6bb431ccfa8f",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/u_qr_code",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480916037647,
+			"name": "代收货款二维码",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "98b95ead-a424-5d1f-1962-568d47412ad4",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/the_meet",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "b_user_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483513437271,
+			"name": "接单",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "9ad00bcc-7a63-bf6e-ed32-382bfae23cdf",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/store_order_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "b_user_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "state",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "page",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "state",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start_time",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "end_time",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "106",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "29",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "is_qu",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483609720298,
+			"name": "订单--我的订单==*******",
+			"description": "state  \n1为待支付  \n2为已支付 待接单  \n3已接单进行中   \n4待收货 \n5为已完成  \n6为取消订单",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "a4826baf-10f8-afa0-708e-a0938bfc77e0",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/notice_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480059989491,
+			"name": "使用须知",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "a4ce1c2f-3d41-f46c-306b-552c2d736353",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/messg_add",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cent",
+					"value": "模压厅",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480059136762,
+			"name": "意见返馈==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "a6f430e0-6d3c-e268-deec-10c36e4d8105",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_order_edit",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "state",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1482289216488,
+			"name": "订单--修改订单状态==******* ",
+			"description": "state  \n1为待支付  \n2为已支付 待接单  \n3已接单进行中   \n4待收货 \n5为已完成  \n6为取消订单",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "ac88f845-822c-cd15-0381-9594f75d4fd7",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_bank_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480125600917,
+			"name": "货款账户--列表==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "af1a97b7-c182-fb27-8cfb-6592ebff20fd",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/cart_add_purchasing",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "money",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "addre_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "goods_name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "buy_address",
+					"value": "购物地址",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "dilometers",
+					"value": "多少公里",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "de_address",
+					"value": "送货地址",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "charge_money",
+					"value": "预付款",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "contact_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "3",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ds_money",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1484031890509,
+			"name": "代购---添加==*******",
+			"description": "\n定制服务的时候 type传3",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "b6d22f1a-b5a3-8785-29a0-f7bd21e6973a",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/area_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pid",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480063061308,
+			"name": "省 市 区  获取",
+			"description": "type 1为获取所有省\n\npid为省份id的时候，是获取这个省的所有城市\n\npid为城市id的时候，是获取这个城市的所有区县",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "52adf547-6cd3-e108-1c29-d00c8e7cfd92"
+		},
+		{
+			"id": "b8558db8-d5d2-8001-bd56-09bca2300db0",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_msg_chang",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "msg_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480058592737,
+			"name": "我的消息通知 状态改变==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "ba293bd3-4758-bdc8-1dc6-59d219937a40",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/check_user",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "mnique",
+					"value": "93f9850ae83ae3b79e7b0638d465c6bb",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480055560665,
+			"name": "检查帐户是否存在及帐户性质",
+			"description": "（凡是会员类的接口，打开之前都需要检）\n\n 并获取最新的 user_id 如果不存在，就退出登陆\n \n is_bess  1为商家",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "bccbd730-5231-7729-0566-457c6a43d05a",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/order_cost",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "coup_id",
+					"value": "优惠券id",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "t_latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "type",
+					"value": "1为代购 2为配送",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1482137046536,
+			"name": "确认订单--费用计算==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "bd47d7e5-4374-d101-a29c-6a4e4ff7f742",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/store_always_lon",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "b_user_id",
+					"value": "337",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "longitude",
+					"value": "119.44213",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "latitude",
+					"value": "32.213286",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483411188528,
+			"name": "订单-上报时时位置",
+			"description": "state  \n1为待支付  \n2为已支付 待接单  \n3已接单进行中   \n4待收货 \n5为已完成  \n6为取消订单",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "bdd55755-4d4d-1f68-9c11-5979ef3c42f4",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/u_coordinate",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "b_user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480906484738,
+			"name": "订单--获取配送员座标==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "cea7fe18-c2fe-8d98-29db-66148cb21190",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_address_del",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "addre_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480125664965,
+			"name": "我的地址--删除==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "cf16ea68-f87c-1442-422f-df5c6b3a4c51",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/confirm_pickup",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "order_number",
+					"value": "20170105180632956353",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "c_pick_longitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "c_pick_latitude",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1483671578736,
+			"name": "确认取件",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "d91a12af-40e5-b2b9-3a33-6e4758ddf6b4",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/get_address_default",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1481178464432,
+			"name": "我的地址--获取默认地址==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "df7833f8-139a-ee90-8cbc-6db4cb0d49da",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/edit_password",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "mnique",
+					"value": "93f9850ae83ae3b79e7b0638d465c6bb",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "311311",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480051046918,
+			"name": "修改密码",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "dfd1a7a5-a06e-493f-da1b-b64108a6d6ea",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/bank_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480126024669,
+			"name": "银行列表",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "ed85c773-e760-21e3-41bc-76b776eb5dcc",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/android_chenk_v",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "num",
+					"value": "版本号",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480052488119,
+			"name": "android系统版本检查",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "52adf547-6cd3-e108-1c29-d00c8e7cfd92"
+		},
+		{
+			"id": "f85bc9ba-3db6-49be-f71b-ec53af3e338e",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_address_list",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "320",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480062540996,
+			"name": "我的地址--列表==*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		},
+		{
+			"id": "fa0f68fe-01bf-4bac-a8f4-0f9b4d07d725",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/list_detailed",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "user_id",
+					"value": "329",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1482482135345,
+			"name": "余额明细--=*******",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": []
+		},
+		{
+			"id": "fb1ceaed-cf00-9cb6-3dcb-22daa4e994f2",
+			"headers": "",
+			"url": "http://cdelivery.cq1b1.com/api.php/index/user_bank_del",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "apikey",
+					"value": "f74dd39951a0b6bbed0fe73606ea5476",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "version",
+					"value": "1.1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "terminal",
+					"value": "android",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "bank_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1480125960470,
+			"name": "货款账户--删除==******* ",
+			"description": "",
+			"collectionId": "664bf388-d68c-91eb-7ce6-fd011df8fb54",
+			"responses": [],
+			"folder": "08c2c467-473e-18f8-92d1-246b26797a36"
+		}
+	]
+}
