@@ -77,7 +77,7 @@
                                 </constraints>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad" secureTextEntry="YES"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="image" keyPath="leftIcon" value="login-pwd"/>
                                     <userDefinedRuntimeAttribute type="number" keyPath="leftEdge">
@@ -92,7 +92,7 @@
                                 </constraints>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad" secureTextEntry="YES"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="image" keyPath="leftIcon" value="login-pwd"/>
                                     <userDefinedRuntimeAttribute type="number" keyPath="leftEdge">
@@ -109,6 +109,9 @@
                                 <state key="normal" title="注册">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="registBtnDidClick:" destination="iGt-IY-Ypk" eventType="touchUpInside" id="gJc-7A-e6b"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="点击注册即视为已阅读并同意《用户协议》" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OeZ-53-cfD">
                                 <rect key="frame" x="39" y="434" width="233" height="15"/>
@@ -148,8 +151,12 @@
                     </view>
                     <connections>
                         <outlet property="backBtn" destination="rw4-UU-fkp" id="QmR-9a-fad"/>
+                        <outlet property="codeNum" destination="R90-Si-aha" id="tJf-rz-sDT"/>
+                        <outlet property="passwordNum" destination="fD3-vh-pQw" id="gfV-cp-ega"/>
+                        <outlet property="phoneNum" destination="gwf-nK-wtS" id="CSY-En-O2o"/>
                         <outlet property="protocolLabel" destination="OeZ-53-cfD" id="dg2-jJ-L3K"/>
                         <outlet property="registBtn" destination="ztg-k1-hFU" id="9v1-sb-C7i"/>
+                        <outlet property="sureNum" destination="Qjn-gF-xcF" id="JpT-pF-5Jl"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="t46-dT-AdV" userLabel="First Responder" sceneMemberID="firstResponder"/>

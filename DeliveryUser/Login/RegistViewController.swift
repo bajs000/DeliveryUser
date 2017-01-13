@@ -7,12 +7,19 @@
 //
 
 import UIKit
+import SVProgressHUD
 
 class RegistViewController: UIViewController {
 
     @IBOutlet weak var backBtn: UIButton!
     @IBOutlet weak var registBtn: UIButton!
     @IBOutlet weak var protocolLabel: UILabel!
+    @IBOutlet weak var phoneNum: registPhoneTextField!
+    @IBOutlet weak var codeNum: CodeTextField!
+    @IBOutlet weak var passwordNum: registPhoneTextField!
+    @IBOutlet weak var sureNum: registPhoneTextField!
+    
+    var verify:String?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,6 +28,8 @@ class RegistViewController: UIViewController {
         let tempStr = NSMutableAttributedString(string: "点击注册即视为已阅读并同意《用户协议》")
         tempStr.addAttribute(NSForegroundColorAttributeName, value: UIColor.colorWithHexString(hex: "eca300"), range: NSMakeRange(13, 6))
         self.protocolLabel.attributedText = tempStr
+        
+        self.codeNum.sendCodeBtn?.addTarget(self, action: #selector(verifyBtnDidClick), for: .touchUpInside)
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -44,6 +53,14 @@ class RegistViewController: UIViewController {
     }
     */
     
+    func verifyBtnDidClick() -> Void {
+        if self.phoneNum.text?.characters.count != 11 {
+            SVProgressHUD.showError(withStatus: "请正确输入手机号")
+            return
+        }
+        self.requestVerify()
+    }
+    
     @IBAction func backBtnDidClick(_ sender: Any) {
         _ = self.navigationController?.popViewController(animated: true)
     }
@@ -52,4 +69,55 @@ class RegistViewController: UIViewController {
         UIApplication.shared.keyWindow?.endEditing(true)
     }
 
+    @IBAction func registBtnDidClick(_ sender: Any) {
+        if self.verify == nil {
+            SVProgressHUD.showError(withStatus: "请先发送验证码")
+            return
+        }
+        if self.verify != self.codeNum.text {
+            SVProgressHUD.showError(withStatus: "请正确输入验证码")
+            return
+        }
+        if (self.passwordNum.text?.characters.count)! < 6 {
+            SVProgressHUD.showError(withStatus: "请输入6位以上密码")
+            return
+        }
+        if self.passwordNum.text != self.sureNum.text {
+            SVProgressHUD.showError(withStatus: "两次密码不一致")
+            return
+        }
+        self.requestRegist()
+    }
+    
+    func requestVerify() -> Void {
+        SVProgressHUD.show()
+        NetworkModel.request(["phone":phoneNum.text ?? "","is_bess":"2"], url: "/verify") { (dic) in
+            SVProgressHUD.dismiss()
+            if Int((dic as! NSDictionary)["code"] as! String) == 200 {
+                self.codeNum.startCount()
+                self.verify = (dic as! NSDictionary)["verify"] as? String
+                print(dic)
+            }else{
+                SVProgressHUD.showError(withStatus: (dic as! NSDictionary)["msg"] as! String)
+            }
+        }
+    }
+    
+    func requestRegist() -> Void {
+        var dic:NSDictionary?
+        dic = ["phone":phoneNum.text!,"is_bess":"2","password":passwordNum.text!]
+        SVProgressHUD.show()
+        NetworkModel.request(dic!, url: "/register") { (dic) in
+            if Int((dic as! NSDictionary)["code"] as! String) == 200 {
+                SVProgressHUD.dismiss()
+                UserDefaults.standard.set((dic as! NSDictionary)["user_id"], forKey: "USERID")
+                UserDefaults.standard.set((dic as! NSDictionary)["mnique"], forKey: "MNIQUE")
+                UserDefaults.standard.synchronize()
+                _ = self.navigationController?.popToRootViewController(animated: true)
+            }else{
+                SVProgressHUD.showError(withStatus: (dic as! NSDictionary)["msg"] as! String)
+            }
+        }
+    }
+    
 }

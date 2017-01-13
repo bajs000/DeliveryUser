@@ -35,6 +35,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate, BMKGeneralDelegate, CLLoc
             locationManager?.requestWhenInUseAuthorization()
         }
         
+        UINavigationBar.appearance().tintColor = UIColor.colorWithHexString(hex: "999999")
+        
         // 定义需要计时的时间
         var timeCount = 0
         // 在global线程里创建一个时间源
