@@ -2017,6 +2017,9 @@
                                                 <constraint firstItem="y5I-Qn-1pr" firstAttribute="centerY" secondItem="X5t-l8-paP" secondAttribute="centerY" id="r7Z-Em-DWZ"/>
                                             </constraints>
                                         </tableViewCellContentView>
+                                        <connections>
+                                            <segue destination="oYm-nQ-EeH" kind="show" identifier="versionPush" id="zLu-fd-KVg"/>
+                                        </connections>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="C9E-gc-1h2">
                                         <rect key="frame" x="0.0" y="50" width="375" height="40"/>
@@ -2569,9 +2572,46 @@
             </objects>
             <point key="canvasLocation" x="4526" y="-2314"/>
         </scene>
+        <!--版本更新-->
+        <scene sceneID="0Ln-O4-mac">
+            <objects>
+                <viewController storyboardIdentifier="version" title="版本更新" id="oYm-nQ-EeH" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="lq3-Pc-ECx"/>
+                        <viewControllerLayoutGuide type="bottom" id="Wa0-YD-xUE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="PPB-ra-Cgz">
+                        <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon-logo" translatesAutoresizingMaskIntoConstraints="NO" id="O7L-hi-uoT">
+                                <rect key="frame" x="142" y="146.5" width="90" height="90"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="V1.0.0 查找新版本 衡阳迅捷生活上午有限公司版权所有 Copyright@Hengyangxunjieshenghuo.All Rights Reserved" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bbX-MT-NiZ">
+                                <rect key="frame" x="20" y="272.5" width="335" height="58"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.95294117649999999" green="0.95294117649999999" blue="0.95294117649999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="O7L-hi-uoT" firstAttribute="centerX" secondItem="PPB-ra-Cgz" secondAttribute="centerX" id="6fQ-1p-ue9"/>
+                            <constraint firstItem="O7L-hi-uoT" firstAttribute="centerY" secondItem="PPB-ra-Cgz" secondAttribute="centerY" multiplier="162:255" id="JcK-MV-vHe"/>
+                            <constraint firstAttribute="trailing" secondItem="bbX-MT-NiZ" secondAttribute="trailing" constant="20" id="bac-g4-nJu"/>
+                            <constraint firstItem="bbX-MT-NiZ" firstAttribute="leading" secondItem="PPB-ra-Cgz" secondAttribute="leading" constant="20" id="cOc-So-abg"/>
+                            <constraint firstItem="bbX-MT-NiZ" firstAttribute="centerY" secondItem="PPB-ra-Cgz" secondAttribute="centerY" id="q44-dP-Ye4"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="gCQ-x0-Ft4" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4588" y="-806"/>
+        </scene>
     </scenes>
     <resources>
         <image name="access" width="5" height="10"/>
+        <image name="icon-logo" width="90" height="90"/>
         <image name="login-bg" width="375" height="667"/>
         <image name="login-logo" width="77" height="77"/>
         <image name="login-pwd" width="15" height="15"/>
